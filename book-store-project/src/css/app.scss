@@ -1,0 +1,24 @@
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css');
+
+// Set Colors
+$green: #09a790;
+$pink: #fa7c91;
+$dark: #333;
+$beige-lighter: #eaebec;
+
+// update global variables
+$family-sans-serif: '微軟正黑體','Nunito', sans-serif;
+$primary: $green;
+$link: $dark;
+$danger: $pink;
+
+// update component variables
+$body-background-color: $beige-lighter;
+
+
+@import '../../node_modules/bulma/bulma.sass';
+
+
+
