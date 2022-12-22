@@ -2,7 +2,7 @@
     "main": "server.js",
     "dependencies": {
         "json-server": "^0.15.1",
-        "jsonwebtoken": "^8.5.1"
+        "jsonwebtoken": "^9.0.0"
     },
     "scripts": {
         "start": "node server.js"
